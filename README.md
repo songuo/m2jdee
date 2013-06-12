@@ -28,3 +28,7 @@ I modify it for newest maven support, it supports Maven 3.x
   To clean the jdee project
 
         mvn jdee:clean
+
+4. Any questions
+
+  Please mailto: [songguo.hit@gmail.com](songguo.hit@gmail.com "mailto:songguo.hit@gmail.com")
